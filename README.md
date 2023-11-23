@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Vivekanand Ojha 👋
 
 Welcome to my GitHub profile! I'm a passionate and dedicated Full Stack Web Developer with a strong foundation in various technologies. Here's a brief overview of who I am and what I do:
 
@@ -34,8 +34,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated Full Stack Web Deve
 - Created frontend CSS components with 3D animations showcased in my [Complete Portfolio](link to portfolio).
 
 ## Let's Connect
-- 📫 Reach me at [your.email@example.com]
-- 💼 Check out my [Fiverr Profile](link to Fiverr profile)
+- 📫 Reach me at goluojha13101992@gmail.com
 
 Feel free to explore my repositories, and I'd love to connect and collaborate on exciting projects!
 
