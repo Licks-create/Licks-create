@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated Full Stack Web Deve
 - Actively participated in code reviews, quality assurance, and UI/UX integration.
 
 ## Featured Projects
-### [Vivegam - Ecommerce Website](link to the project)
+### [Vivegam - Ecommerce Website](http://vivegam-shop.netlify.app/)
 - Tech Stacks: ReactJS, NodeJS, ExpressJS, Stripe, MongoDB, Redux, crypto-js.
 - Developed a fully secured Full Stack ecommerce website with features like cart functionality, user authentication, and Stripe payment integration.
 
