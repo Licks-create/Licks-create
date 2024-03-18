@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated Full Stack Web Deve
 
 ## Let's Connect
 - 📫 Reach me at goluojha13101992@gmail.com
-- Phone - 9118372331
+- 📱 Phone - +91 9118372331
 
 
 Feel free to explore my repositories, and I'd love to connect and collaborate on exciting projects!
