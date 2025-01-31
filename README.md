@@ -13,11 +13,20 @@ Welcome to my GitHub profile! I'm a passionate and dedicated Full Stack Web Deve
 - **Full Stack Web Development:** ReactJS, Redux, React-Query, ExpressJS, NodeJS, Django
 - **Version Control:** Git and GitHub
 
-## Internship Experience
-### Frontend Developer at Traveey (Oct 2023 - Dec 2023)
-- Dedicated frontend developer with expertise in React, TypeScript, and React Query.
-- Collaborated on designing, developing, and testing user interfaces for web applications.
-- Actively participated in code reviews, quality assurance, and UI/UX integration.
+
+## 💼 Work Experience  
+
+### 🏢 Software Development Engineer (Frontend) at Playo (Feb 2024 - Present)  
+- Built and maintained **scalable frontend applications** using **Next.js, Redux, and AWS**.  
+- Resolved **100+ critical bugs**, enhancing website stability and performance.  
+- Integrated a **seamless Payment Gateway**, increasing **paid activity transactions by 20%**.  
+- Developed **booking functionalities** for personal trainers, yoga classes, and academies.  
+- Optimized performance by **reducing load times by 30%** using **AWS S3 and Redis caching**.  
+
+### 🎯 Frontend Developer Intern at Traveey (Jul 2023 - Dec 2023)  
+- Designed and developed **dynamic user interfaces** using **React, TypeScript, and React Query**.  
+- Collaborated with cross-functional teams to deliver **scalable and maintainable** code.  
+- Participated in **code reviews, quality assurance, and UI/UX integration**.  
 
 ## Featured Projects
 ### [Vivegam - Ecommerce Website](http://vivegam-shop.netlify.app/)
